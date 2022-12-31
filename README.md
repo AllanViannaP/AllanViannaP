@@ -13,4 +13,4 @@
 * Unity **C#**
 * Unreal **C++**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanViannaP&layout=demo)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanViannaP&layout=demo)
