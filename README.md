@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello, my name is Allan Vianna 👋
 
-<!--
-**AllanViannaP/AllanViannaP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages:
+ 
+ Português || English || 日本語　
+ 
+ ![Allan GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanViannaP&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+### Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Unity **C#**
+* Unreal **C++**
+* GameMaker Studio 2 with language **GML**
+* Eclipse Ide **Java**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanViannaP&layout=demo)](https://github.com/AllanViannaP/github-readme-stats)
