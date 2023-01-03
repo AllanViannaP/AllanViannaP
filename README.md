@@ -8,7 +8,7 @@
  
  ![Allan GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanViannaP&show_icons=true&theme=tokyonight)
 
-### Technologies
+### Technologies:
 
 * Eclipse Ide **Java**
 * GameMaker Studio 2 with language **GML**
