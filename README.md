@@ -1,5 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=4197fc&amp;height=120&amp;section=header" style="max-width: 100%;"/>
-
 <img src="https://readme-typing-svg.herokuapp.com/?color=29bcad&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Hello,+my+name+is+Allan+Vianna;I'm+23+years+old;I'm+from+Brazil;I+graduated+in+Computer+Science;Bem+vindo+|+Welcome+|+ようこそ" style="max-width: 100%;">
 
 ### Languages:
