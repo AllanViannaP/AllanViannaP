@@ -5,7 +5,7 @@
  
  Português || English || 日本語　
  
- ![Allan GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanViannaP&show_icons=true&&count_private=true&theme=tokyonight)
+ ![Allan GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanViannaP&show_icons=true&&theme=tokyonight)
 
 ### Technologies:
 
@@ -14,7 +14,7 @@
 * Unity **C#**
 * Unreal **C++**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanViannaP&show_icons=true&&count_private=true&layout=demo&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanViannaP&show_icons=true&&layout=demo&theme=tokyonight)
 
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AllanViannaP&bg_color=1a1b27&color=6c9ff4&line=37bcad&point=be90f2&area=true&hide_border=true)
