@@ -5,7 +5,6 @@
  
  Português || English || 日本語　
  
- ![Allan GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanViannaP&show_icons=true&&theme=tokyonight)
 
 ### Technologies:
 
@@ -13,9 +12,6 @@
 * GameMaker Studio 2 with language **GML**
 * Unity **C#**
 * Unreal **C++**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanViannaP&show_icons=true&&layout=demo&theme=tokyonight)
-
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AllanViannaP&bg_color=1a1b27&color=6c9ff4&line=37bcad&point=be90f2&area=true&hide_border=true)
 
