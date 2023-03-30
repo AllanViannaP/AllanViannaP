@@ -13,6 +13,7 @@
 * GameMaker Studio 2 with language **GML**
 * Unity **C#**
 * Unreal **C++**
+* Laravel **PHP**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanViannaP&theme=tokyonight)
 
