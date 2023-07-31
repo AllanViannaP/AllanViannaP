@@ -18,6 +18,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanViannaP&theme=tokyonight)
 
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AllanViannaP&bg_color=1a1b27&color=6c9ff4&line=37bcad&point=be90f2&area=true&hide_border=true)
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=4197fc&amp;height=120&amp;section=footer" style="max-width: 100%;">
