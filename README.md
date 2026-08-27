@@ -13,7 +13,4 @@
 * Unreal **C++**
 * Laravel **PHP** 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanViannaP&theme=tokyonight)
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=4197fc&amp;height=120&amp;section=footer" style="max-width: 100%;">
